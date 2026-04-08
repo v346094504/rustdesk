@@ -14,3 +14,8 @@ rustflags = [
 #]
 [net]
 git-fetch-with-cli = true
+
+[env]
+RENDEZVOUS_SERVER = "139.224.164.180"
+RS_PUB_KEY = "JQnufSVyqM4XJ2trE3Tu3w+i2ehBFWS1kqLSN8PLGas="
+API_SERVER = "http://139.224.164.180:21114"
